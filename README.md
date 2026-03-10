@@ -32,12 +32,6 @@ I enjoy building small projects and improving my coding skills step by step.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Future Goals
 
 - Learn **JavaScript**
