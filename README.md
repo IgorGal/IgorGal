@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Igor Gałuszka!
+# 👋 Hi there!
 
 👨‍💻 16 y/o Programming Student  
 🏫 ZS2 Lubin – Programming Technician profile  
